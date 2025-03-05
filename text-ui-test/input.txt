@@ -3,5 +3,7 @@ add Guitar
 add Piano
 add Flute
 reserve 1
+y
 return 1
+y
 exit

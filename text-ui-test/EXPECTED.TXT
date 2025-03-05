@@ -75,14 +75,16 @@ Guitar | O
 Piano | O
 Flute | O
 *-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-+-*-+=+-+-*-+
-Reserving instrument: Guitar | O
+Would you like to reserve Guitar | O? [Y/N]
+Reserving instrument: Guitar | X
 *-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-+-*-+=+-+-*-+
 Here is the list of instruments:
 Guitar | X
 Piano | O
 Flute | O
 *-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-+-*-+=+-+-*-+
-Returning instrument: Guitar | X
+Would you like to return Guitar | X? [Y/N]
+Returning instrument: Guitar | O
 *-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-*-+=+-+-*-+=+-+-*-+
 Here is the list of instruments:
 Guitar | O
